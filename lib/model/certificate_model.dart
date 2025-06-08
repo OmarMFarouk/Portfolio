@@ -20,7 +20,7 @@ List<CertificateModel> certificateList = [
     organization: 'MEC Academy',
     date: 'MAY 2023',
     skills: 'Flutter . Dart . Firebase . bLoC',
-    credential: '../assets/certificates/mec_flutter_deploma.pdf',
+    credential: '../data/certificates/mec_flutter_deploma.pdf',
   ),
   CertificateModel(
     name: 'Flutter Advanced Course Bloc and MVVM Pattern',
@@ -42,20 +42,20 @@ List<CertificateModel> certificateList = [
     organization: 'Egyptian Engineers Syndicate',
     date: 'AUG 2024',
     skills: 'Structure & Operation of [GSM / 3G / 4G / 5G]',
-    credential: '../assets/certificates/ees_mobile_networks.pdf',
+    credential: '../data/certificates/ees_mobile_networks.pdf',
   ),
   CertificateModel(
     name: 'Mobile Networks',
     organization: 'Engovation',
     date: 'AUG 2024',
     skills: 'Structure & Operation of [GSM / 3G / 4G / 5G]',
-    credential: '../assets/certificates/engovation_mobile_networks.pdf',
+    credential: '../data/certificates/engovation_mobile_networks.pdf',
   ),
   CertificateModel(
     name: 'Cisco Certified Network Associate',
     organization: 'ICG Innovation',
     date: 'SEPT 2023',
     skills: 'Routing . Switching . IPv4 & IPv6 addressing',
-    credential: '../assets/certificates/icg_ccna.pdf',
+    credential: '../data/certificates/icg_ccna.pdf',
   ),
 ];
